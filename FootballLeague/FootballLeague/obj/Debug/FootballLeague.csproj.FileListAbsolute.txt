@@ -1,0 +1,128 @@
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\AppManifest.xaml
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\FootballLeague_Debug_AnyCPU.xap
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+C:\Users\duytrinh\Dropbox\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+Z:\VMWare Shared Folder\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\AppManifest.xaml
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague_Debug_AnyCPU.xap
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\Jin\Documents\Visual Studio 2012\Projects\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\AppManifest.xaml
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Properties\WMAppManifest.xml
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\FootballLeague_Debug_AnyCPU.xap
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+D:\DucAnh\My Projects\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\AppManifest.xaml
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\FootballLeague_Debug_AnyCPU.xap
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\duytrinh\Desktop\FB1\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml

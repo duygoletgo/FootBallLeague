@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+	<key>Anfield</key>
+	<dict>
+		<key>address</key>
+		<string>Anfield Road, Liverpool, L4 OTH</string>
+		<key>capacity</key>
+		<string>45400</string>
+		<key>club</key>
+		<string>Liverpool FC</string>
+		<key>imagepath</key>
+		<string>anfield.jpg</string>
+		<key>inauguration</key>
+		<string>1884</string>
+		<key>name</key>
+		<string>Anfield</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>61,905; Liverpool-Wolves, 2 February 1952</string>
+	</dict>
+	<key>City of Manchester Stadium</key>
+	<dict>
+		<key>address</key>
+		<string>Rowsley Street, Manchester M11 3FF</string>
+		<key>capacity</key>
+		<string>48500</string>
+		<key>club</key>
+		<string>Manchester City FC</string>
+		<key>imagepath</key>
+		<string>city of manchester stadium.jpg</string>
+		<key>inauguration</key>
+		<string>2002</string>
+		<key>name</key>
+		<string>City of Manchester Stadium</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>None</string>
+	</dict>
+	<key>Craven Cottage</key>
+	<dict>
+		<key>address</key>
+		<string>Stevenage Road, Fulham, London SW6 6HH</string>
+		<key>capacity</key>
+		<string>22200</string>
+		<key>club</key>
+		<string>Fulham FC</string>
+		<key>imagepath</key>
+		<string>craven cottage.jpg</string>
+		<key>inauguration</key>
+		<string>1896</string>
+		<key>name</key>
+		<string>Craven Cottage</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>78,299, Everton-Liverpool, September 1948</string>
+	</dict>
+	<key>Emirates</key>
+	<dict>
+		<key>address</key>
+		<string>Highbury House, 75 Drayton Park, London, N5 1BU</string>
+		<key>capacity</key>
+		<string>60361</string>
+		<key>club</key>
+		<string>Arsenal FC</string>
+		<key>imagepath</key>
+		<string>emirates.jpg</string>
+		<key>inauguration</key>
+		<string>2006</string>
+		<key>name</key>
+		<string>Emirates</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>78,299, Everton-Liverpool, September 1948</string>
+	</dict>
+	<key>Ewood Park</key>
+	<dict>
+		<key>address</key>
+		<string>Nuttall Street, Blackburn, Lancs, BB2 4JF</string>
+		<key>capacity</key>
+		<string>31300</string>
+		<key>club</key>
+		<string>Blackburn Rovers FC</string>
+		<key>imagepath</key>
+		<string>ewood park.jpg</string>
+		<key>inauguration</key>
+		<string>1890</string>
+		<key>name</key>
+		<string>Ewood Park</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>62,522, Blackburn-Bolton; 2 March 1929</string>
+	</dict>
+	<key>Fratton Park</key>
+	<dict>
+		<key>address</key>
+		<string>Frogmore Road, Portsmouth, P04 8RA</string>
+		<key>capacity</key>
+		<string>19400</string>
+		<key>club</key>
+		<string>Portsmouth FC</string>
+		<key>imagepath</key>
+		<string>fratton park.jpg</string>
+		<key>inauguration</key>
+		<string>1989</string>
+		<key>name</key>
+		<string>Fratton Park</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>51,385, Portsmouth-Derby Country; 1949</string>
+	</dict>
+	<key>Goodison Park</key>
+	<dict>
+		<key>address</key>
+		<string>Frogmore Road, Portsmouth, P04 8RA</string>
+		<key>capacity</key>
+		<string>40200</string>
+		<key>club</key>
+		<string>Everton FC</string>
+		<key>imagepath</key>
+		<string>goodison park.jpg</string>
+		<key>inauguration</key>
+		<string>1892</string>
+		<key>name</key>
+		<string>Goodison Park</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>78,299, Everton-Liverpool, September 1948</string>
+	</dict>
+	<key>Old Trafford</key>
+	<dict>
+		<key>address</key>
+		<string>Sir Matt Busby Way, Old Trafford, Manchester, M16 URA</string>
+		<key>capacity</key>
+		<string>68000</string>
+		<key>club</key>
+		<string>Manchester United FC</string>
+		<key>imagepath</key>
+		<string>old trafford.jpg</string>
+		<key>inauguration</key>
+		<string>1909</string>
+		<key>name</key>
+		<string>Old Trafford</string>
+		<key>nickname</key>
+		<string>Theater of Dreams</string>
+		<key>recordattendance</key>
+		<string>76,962; Wales Grimsby, 25 March 1939</string>
+	</dict>
+	<key>Reebok Stadium</key>
+	<dict>
+		<key>address</key>
+		<string>Burnden Way, Bolton, Lancashire, BL6 6JW</string>
+		<key>capacity</key>
+		<string>28000</string>
+		<key>club</key>
+		<string>Bolton Wanderers FC</string>
+		<key>imagepath</key>
+		<string>reebok stadium.jpg</string>
+		<key>inauguration</key>
+		<string>1997</string>
+		<key>name</key>
+		<string>Reebok Stadium</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>None</string>
+	</dict>
+	<key>Riverside Stadium</key>
+	<dict>
+		<key>address</key>
+		<string>Middlesbrough, TS3 6RS</string>
+		<key>capacity</key>
+		<string>35100</string>
+		<key>club</key>
+		<string>Middlesbrough FC</string>
+		<key>imagepath</key>
+		<string>riverside stadium.jpg</string>
+		<key>inauguration</key>
+		<string>1995</string>
+		<key>name</key>
+		<string>Riverside Stadium</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>34,795; Middlesbrough-Sunderland; 2000</string>
+	</dict>
+	<key>St James' Park</key>
+	<dict>
+		<key>address</key>
+		<string>Newcastle-upon-Tyne, NE1 4ST</string>
+		<key>capacity</key>
+		<string>52200</string>
+		<key>club</key>
+		<string>Newcastle United FC</string>
+		<key>imagepath</key>
+		<string>st james' park.jpg</string>
+		<key>inauguration</key>
+		<string>1880</string>
+		<key>name</key>
+		<string>St James' Park</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>68,386; Newcastle-Chelsea; September 3 1930</string>
+	</dict>
+	<key>Stamford Bridge</key>
+	<dict>
+		<key>address</key>
+		<string>Fulham Road, London, SW6 1HS</string>
+		<key>capacity</key>
+		<string>42500</string>
+		<key>club</key>
+		<string>Chelsea FC</string>
+		<key>imagepath</key>
+		<string>stamford bridge.jpg</string>
+		<key>inauguration</key>
+		<string>1877</string>
+		<key>name</key>
+		<string>Stamford Bridge</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>None</string>
+	</dict>
+	<key>The Hawthorns</key>
+	<dict>
+		<key>address</key>
+		<string>Halfords Lane, West Bromwich B71 4LF</string>
+		<key>capacity</key>
+		<string>25300</string>
+		<key>club</key>
+		<string>West Bromwich FC</string>
+		<key>imagepath</key>
+		<string>the hawthorns.jpg</string>
+		<key>inauguration</key>
+		<string>1990</string>
+		<key>name</key>
+		<string>The Hawthorns</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>64,815; West Bromwich-Arsenal; 1937</string>
+	</dict>
+	<key>Villa Park</key>
+	<dict>
+		<key>address</key>
+		<string>Trinity Road, Birmingham B6 6HE</string>
+		<key>capacity</key>
+		<string>43300</string>
+		<key>club</key>
+		<string>Aston Villa FC</string>
+		<key>imagepath</key>
+		<string>villa park.jpg</string>
+		<key>inauguration</key>
+		<string>1987</string>
+		<key>name</key>
+		<string>Villa Park</string>
+		<key>nickname</key>
+		<string>None</string>
+		<key>recordattendance</key>
+		<string>76,588; Aston Villa-Derby; March 1946</string>
+	</dict>
+</dict>

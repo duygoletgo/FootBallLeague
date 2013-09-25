@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stadiums>
+  <stadium>
+    <number>1</number>
+    <address>Anfield Road, Liverpool, L4 OTH</address>
+
+    <capacity>45400</capacity>
+
+    <club>Liverpool FC</club>
+
+    <imagepath>anfield.jpg</imagepath>
+
+    <inauguration>1884</inauguration>
+
+    <name>Anfield</name>
+
+    <nickname>None</nickname>
+
+    <recordattendance>61,905; Liverpool-Wolves, 2 February 1952</recordattendance>
+  </stadium>
+  <stadium>
+    <number>2</number>
+    <address>Rowsley Street, Manchester M11 3FF</address>
+
+    <capacity>48500</capacity>
+
+    <club>Manchester City FC</club>
+
+    <imagepath>city of manchester stadium.jpg</imagepath>
+
+    <inauguration>2002</inauguration>
+
+    <name>Etihad</name>
+
+    <nickname>None</nickname>
+
+    <recordattendance>None</recordattendance>
+  </stadium>
+</Stadiums>
+

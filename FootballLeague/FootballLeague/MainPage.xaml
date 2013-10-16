@@ -83,8 +83,8 @@
                     <Image Grid.Column="0" Grid.Row="0" Source="/Resources/MenuICon/stadium_icon.png" Tap="Stadium_tap"></Image>
                     <Image Grid.Column="0" Grid.Row="2" Source="/Resources/MenuICon/match_icon.png"></Image>
                     <Image Grid.Column="0" Grid.Row="4" Source="/Resources/MenuICon/schedule_icon.png"></Image>
-                    <Image Grid.Column="2" Grid.Row="0" Source="/Resources/MenuICon/history_icon.png"></Image>
-                    <Image Grid.Column="2" Grid.Row="2" Source="/Resources/MenuICon/team_icon.png"></Image>
+                    <Image Grid.Column="2" Grid.Row="0" Source="/Resources/MenuICon/history_icon.png" ></Image>
+                    <Image Grid.Column="2" Grid.Row="2" Source="/Resources/MenuICon/team_icon.png" Tap="Teams_Tap"></Image>
                     <Image Grid.Column="2" Grid.Row="4" Source="/Resources/MenuICon/search_player_icon.png"></Image>
                     <TextBlock Grid.Column="0" Grid.Row="1" Text="Stadiums" HorizontalAlignment="Center"></TextBlock>
                     <TextBlock Grid.Column="2" Grid.Row="1" Text="History" HorizontalAlignment="Center"></TextBlock>
@@ -125,9 +125,10 @@
                 </Grid>
             </phone:PivotItem>
         </phone:Pivot>
-
+        
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.RowSpan="2"/>
+        <Button Margin="115,275,251,369" Grid.Row="1" Content="Binary" Click="Button_Click_1"></Button>
     </Grid>
 
 </phone:PhoneApplicationPage>

@@ -142,9 +142,10 @@ C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\Bin\Deb
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
-C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\History.g.cs
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\Matchs.g.cs
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\Teams.g.cs
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
@@ -153,3 +154,4 @@ C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Deb
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache

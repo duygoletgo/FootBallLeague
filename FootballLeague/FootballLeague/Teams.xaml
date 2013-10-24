@@ -11,24 +11,92 @@
     Foreground="{StaticResource PhoneForegroundBrush}"
     SupportedOrientations="Portrait" Orientation="Portrait"
     mc:Ignorable="d"
-    shell:SystemTray.IsVisible="True">
+    shell:SystemTray.IsVisible="True" BackKeyPress="Teams_OnBackKeyPress">
 	<phone:PhoneApplicationPage.Resources>
 		<DataTemplate x:Key="TeamsDataTemplate">
-			<Grid>
+            <Grid Tap="Teams_Tap" Width="400" Height="50">
 				<Grid.ColumnDefinitions>
 					<ColumnDefinition Width="1*"/>
 					<ColumnDefinition Width="7*"/>
 					<ColumnDefinition Width="2*"/>
 				</Grid.ColumnDefinitions>
-                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Numbers,Mode=TwoWay}" VerticalAlignment="Top"/>
-                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Club,Mode=TwoWay}" VerticalAlignment="Top" Grid.Column="1"/>
-                <Image HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="2"/>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Numbers,Mode=TwoWay}" />
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding ClubName,Mode=TwoWay}" Grid.Column="1"/>
+                <Image Source="{Binding Imagepath}" Grid.Column="2" Stretch="None" HorizontalAlignment="Right"/>
             </Grid>
 		</DataTemplate>
-	</phone:PhoneApplicationPage.Resources>
+        <DataTemplate x:Key="TeamDetailDataTemplate">
+            <Grid Height="50" Tap="TeamDetail_Tap">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="7*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding NumbersDetail,Mode=TwoWay}" />
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding NameDetail,Mode=TwoWay}" Grid.Column="1"/>
+            </Grid>
+        </DataTemplate>
+    </phone:PhoneApplicationPage.Resources>
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
+    	<VisualStateManager.VisualStateGroups>
+    		<VisualStateGroup x:Name="VisualStateGroup">
+    			<VisualStateGroup.Transitions>
+    				<VisualTransition GeneratedDuration="0:0:0.6"/>
+    			</VisualStateGroup.Transitions>
+    			<VisualState x:Name="ShowlstTeam">
+    				<Storyboard>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lstTeamDetail">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<Visibility>Collapsed</Visibility>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    				</Storyboard>
+    			</VisualState>
+    			<VisualState x:Name="ShowlstTeamDetail">
+    				<Storyboard>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lstTeams">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<Visibility>Collapsed</Visibility>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lstTeamDetail">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<Visibility>Visible</Visibility>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    				</Storyboard>
+    			</VisualState>
+    			<VisualState x:Name="HidelstTeam">
+    				<Storyboard>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lstTeams">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<Visibility>Collapsed</Visibility>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    				</Storyboard>
+    			</VisualState>
+    			<VisualState x:Name="HidelstTeamDetail">
+    				<Storyboard>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lstTeamDetail">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<Visibility>Collapsed</Visibility>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    				</Storyboard>
+    			</VisualState>
+    		</VisualStateGroup>
+    	</VisualStateManager.VisualStateGroups>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -41,11 +109,50 @@
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <ListBox x:Name="lstSatdiums"  SelectionMode="Single" 
+        <Grid Grid.Row="1">
+            <ListBox x:Name="lstTeams" 
 						 HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Stretch"
 						 VerticalAlignment="Stretch"
-						 Margin="12,0,0,0" Grid.RowSpan="2" ItemTemplate="{StaticResource TeamsDataTemplate}"/>
+						 Margin="0" Grid.RowSpan="2" ItemTemplate="{StaticResource TeamsDataTemplate}"/>
+             <ListBox x:Name="lstTeamDetail" 
+						 HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Stretch"
+						 VerticalAlignment="Stretch"
+						 Margin="0" Grid.RowSpan="2" ItemTemplate="{StaticResource TeamDetailDataTemplate}"/>
+        <Popup x:Name="my_popup_xaml" Margin="5,250,5,300">
+            <Border  BorderThickness="2" Margin="10" BorderBrush="{StaticResource PhoneAccentBrush}">
+                <StackPanel Background="Green">
+                    <Grid Width="450" Height="300">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Image x:Name="ImageSoccer"></Image>
+                        </Grid>
+                        <Grid Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" x:Name="tbName"></TextBlock>
+                            <TextBlock Grid.Row="1" x:Name="tbDOB"></TextBlock>
+                            <TextBlock Grid.Row="2" x:Name="tbPOB"></TextBlock>
+                            <TextBlock Grid.Row="3" x:Name="tbNationality"></TextBlock>
+                            <TextBlock Grid.Row="4" x:Name="tbWeight"></TextBlock>
+                            <TextBlock Grid.Row="5" x:Name="tbHeight"></TextBlock>
+                            <TextBlock Grid.Row="6" x:Name="tbLocation"></TextBlock>
+                        </Grid>
+                    </Grid>
+                    <Button HorizontalAlignment="Center" Content="Cancel" Click="btn_cancel_Click"></Button>
+                </StackPanel>
+            </Border>
+        </Popup>
         </Grid>
     </Grid>
 

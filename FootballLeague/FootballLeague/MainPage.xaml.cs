@@ -7,6 +7,9 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Navigation;
+using FootballLeague.Helper;
+using FootballLeague.ViewModel;
+using GalaSoft.MvvmLight.Command;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using GestureEventArgs = System.Windows.Input.GestureEventArgs;
@@ -37,7 +40,7 @@ namespace FootballLeague
         }
         private void Teams_Tap(object sender, GestureEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/Teams.xaml" , UriKind.Relative));
+            GetMvvmInstance.GetInstance<TeamsViewModel>(MvvmKeys.TeamsViewModel).GoToTeamsView.Execute(null);
         }
         private void Matchs_Tap(object sender, GestureEventArgs e)
         {

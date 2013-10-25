@@ -1,17 +1,31 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml.cs" caret="3868" fromTop="7" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml.cs" caret="5833" fromTop="43" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5329" fromTop="18" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1300" fromTop="19" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml" caret="1368" fromTop="26" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="985" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5238" fromTop="20" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml" caret="814" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml" caret="816" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml.cs" caret="596" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/f:Stadium.xml" caret="0" fromTop="0" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml.cs" caret="787" fromTop="1" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml" caret="8877" fromTop="15" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/d:PlayerInfo/f:Arsenal.xml" caret="323" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml.cs" caret="3988" fromTop="27" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="6616" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml.cs" caret="1703" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1155" fromTop="17" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml.cs" caret="2343" fromTop="14" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:News.xaml" caret="0" fromTop="0" />
   </RecentFiles>
   <RecentEdits>
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml" caret="7801" fromTop="34" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml.cs" caret="5786" fromTop="42" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5333" fromTop="18" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1298" fromTop="19" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="985" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5379" fromTop="20" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1678" fromTop="18" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml.cs" caret="477" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml" caret="824" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml.cs" caret="480" fromTop="8" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml" caret="826" fromTop="13" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/d:PlayerInfo/f:Arsenal.xml" caret="368" fromTop="12" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml.cs" caret="1703" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="6855" fromTop="14" />
   </RecentEdits>
 </RecentFiles>

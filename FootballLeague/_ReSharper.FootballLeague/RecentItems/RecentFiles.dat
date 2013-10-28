@@ -1,31 +1,56 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5238" fromTop="20" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml" caret="814" fromTop="13" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml" caret="816" fromTop="13" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml.cs" caret="596" fromTop="13" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/f:Stadium.xml" caret="0" fromTop="0" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml.cs" caret="787" fromTop="1" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml" caret="8877" fromTop="15" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/d:PlayerInfo/f:Arsenal.xml" caret="323" fromTop="10" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml.cs" caret="3988" fromTop="27" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="6616" fromTop="11" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml.cs" caret="1703" fromTop="11" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1155" fromTop="17" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml.cs" caret="2343" fromTop="14" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:News.xaml" caret="0" fromTop="0" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Stadiums.xaml.cs" caret="2343" fromTop="26" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Teams.xaml" caret="6616" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Stadiums.xaml" caret="8877" fromTop="15" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Interaction.cs" caret="45" fromTop="2" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml" caret="377" fromTop="7" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml.cs" caret="3663" fromTop="91" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="1" fromTop="0" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1383" fromTop="19" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Properties/f:AssemblyInfo.cs" caret="1092" fromTop="16" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Model/f:TeamsModel.cs" caret="253" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Model/f:StadiumModel.cs" caret="284" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:MainViewModel.cs" caret="235" fromTop="9" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:TeamsViewModel.cs" caret="470" fromTop="16" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Teams.xaml.cs" caret="1703" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:ViewModelLocator.cs" caret="2015" fromTop="17" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:MvvmKeys.cs" caret="255" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:NavigationService.cs" caret="575" fromTop="14" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:GetMvvmInstance.cs" caret="624" fromTop="21" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:INavigationService.cs" caret="309" fromTop="12" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Properties/f:AppManifest.xml" caret="161" fromTop="3" />
   </RecentFiles>
   <RecentEdits>
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml" caret="7801" fromTop="34" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Stadiums.xaml.cs" caret="5786" fromTop="42" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="5379" fromTop="20" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="1678" fromTop="18" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Stadiums.xaml" caret="7801" fromTop="34" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Stadiums.xaml.cs" caret="5786" fromTop="42" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml.cs" caret="477" fromTop="10" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Matchs.xaml" caret="824" fromTop="13" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml.cs" caret="480" fromTop="8" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:History.xaml" caret="826" fromTop="13" />
     <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Resources/d:PlayerInfo/f:Arsenal.xml" caret="368" fromTop="12" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml.cs" caret="1703" fromTop="11" />
-    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Teams.xaml" caret="6855" fromTop="14" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Teams.xaml.cs" caret="1703" fromTop="11" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:View/f:Teams.xaml" caret="6855" fromTop="14" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Model/f:TeamsModel.cs" caret="443" fromTop="15" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Model/f:StadiumModel.cs" caret="234" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:MainViewModel.cs" caret="200" fromTop="9" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:INavigationService.cs" caret="323" fromTop="12" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:NavigationService.cs" caret="1256" fromTop="28" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:Interaction.cs" caret="45" fromTop="2" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:GetMvvmInstance.cs" caret="334" fromTop="14" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Helper/f:MvvmKeys.cs" caret="244" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml.cs" caret="932" fromTop="6" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:TeamsViewModel.cs" caret="629" fromTop="21" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:MainPage.xaml" caret="669" fromTop="10" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/f:App.xaml" caret="377" fromTop="7" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:ViewModel/f:ViewModelLocator.cs" caret="1415" fromTop="16" />
+    <File id="663AB3FF-57CC-4ACC-8A32-2DA33F1BEE74/d:Properties/f:AppManifest.xml" caret="140" fromTop="3" />
   </RecentEdits>
 </RecentFiles>

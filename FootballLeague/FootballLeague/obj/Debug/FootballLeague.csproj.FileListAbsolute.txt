@@ -168,4 +168,34 @@ C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Deb
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+<<<<<<< Updated upstream
 C:\Users\duytrinh\Desktop\FootBallLeagueMG\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+=======
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\ApplicationIcon.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\FootballLeague.pdb
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\AppManifest.xaml
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\FootballLeague_Debug_AnyCPU.xap
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\App.g.cs
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\MainPage.g.cs
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\Stadiums.g.cs
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\Teams.g.cs
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.g.resources
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.Resources.AppResources.resources
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csproj.GenerateResource.Cache
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.dll
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+D:\FootBallLeagueWP\FootballLeague\FootballLeague\obj\Debug\XapCacheFile.xml
+>>>>>>> Stashed changes
